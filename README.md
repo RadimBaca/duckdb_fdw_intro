@@ -1,4 +1,4 @@
-# duckdb_fdw_intro
+# Duckdb_fdw Intro
 
 This example shows the basic usage of the duckdb_fdw extension in Postgres. 
 We use a docker image with preinstalled PostgreSQL and Duckdb_fdw extension. 
